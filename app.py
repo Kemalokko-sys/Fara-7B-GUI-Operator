@@ -291,10 +291,10 @@ with gr.Blocks() as demo:
     
     gr.Examples(
         examples=[
-            ["examples/1.png", "Click on the Fara-7B model.", "Fara-7B"],
-            ["examples/2.png", "Click on the VLMs Collection", "UI-TARS-1.5-7B"],
-            ["examples/3.png", "Click on the 'Real-time vision models' collection.", "Fara-7B"],
-            ["examples/3.png", "Click on the 'Real-time vision models' collection.", "Holo1-3B"],
+            ["examples/1.png", "Click on the Fara-7B model."],
+            ["examples/2.png", "Click on the VLMs Collection"],
+            ["examples/3.png", "Click on the 'Real-time vision models' collection."],
+            ["examples/3.png", "Click on the 'Real-time vision models' collection."],
         ],
         inputs=[input_image, task_input],
         label="Quick Examples"
